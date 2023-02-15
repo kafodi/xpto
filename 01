@@ -1,9 +1,9 @@
 #EXTM3U 
 #EXTINF:-1,FR: RMC /PT
 http://77.207.0.25:4000/play/a038
-#EXTINF:-1,PT: SPORTV 1 4K+/150K
+#EXTINF:-1,PT: SPORTV 1
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14550
-#EXTINF:-1,PT: BENFICA TV 4K+/150K
+#EXTINF:-1,PT: BENFICA TV
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14557
 #EXTINF:-1,PT: SPORTV 1
 http://penelope.newteam-iptv.xyz/tr1j7AaC/cS28RU7/307430
