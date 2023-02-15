@@ -1,0 +1,67 @@
+#EXTM3U 
+#EXTINF:-1,FR: M6 MUSIC
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/55384
+#EXTINF:-1,FR: MTV MUSIC
+http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/55385
+#EXTINF:-1,UKR: YOSSO HITS
+http://d87e8c2b.amazzin.pw/iptv/LKDRH3NNQGF2HV/14179/index.m3u8
+#EXTINF:-1,RUS: TRACE URBAN
+http://95.67.12.89:9040
+#EXTINF:-1,RUS: EU MUSIC
+https://vtv3.tenet.ua:8812/hls_sec/239.33.13.57-.m3u8
+#EXTINF:-1,RUS: 4EVER MUSIC
+https://vtv4.tenet.ua:8812/hls_sec/239.2.211.106-.m3u8
+#EXTINF:-1,RUS: CLUBBING TV
+https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1,RUS: DANCE TELEVISION 1
+https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1,RUS: DANCE TELEVISION 2
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1,RUS: DANCE TELEVISION 5
+https://eu-nl-012.worldcast.tv/dancetelevisionfive/2/dancetelevisionfive.m3u8
+#EXTINF:-1,[1]RUS: HAPPY RADIO
+https://live.prd.dlive.tv/hls/live/happyradio.m3u8
+#EXTINF:-1,RUS: KISS KISS ITALIA
+https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1,RUS: KISS KISS TV
+http://wma05.fluidstream.net/KissKissTV/KissKissTV.stream/chunklist.m3u8
+#EXTINF:-1,RUS: KRONEHIT
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1,CZE: OCKO EXPRESS
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1,CZE: OCKO START
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1,CZE: OCKO TV
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1,RUS: TVM3
+https://edge15.vedge.infomaniak.com/livecast/tvm3/chunklist_w678388921.m3u8
+#EXTINF:-1,RUS: V2BEAT
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:-1,RUS: V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1,RUS: BRIDGE TV 24H
+https://livetv.mylifeisgood.ml/channels/bridgetv24h
+#EXTINF:-1,RUS: BRIDGE TV 24H
+http://31.148.48.15:80/Bridge_TV/index.m3u8?token=test
+#EXTINF:-1,RUS: BRIDGE CLASSIC 24H
+https://livetv.mylifeisgood.ml/channels/bridgeclassictv.m3u8
+#EXTINF:-1,RUS: BRIDGE DELUXE 24H
+https://livetv.mylifeisgood.ml/channels/bridgedeluxetv.m3u8
+#EXTINF:-1,RUS: BRIDGE HITS 24H
+https://livetv.mylifeisgood.ml/channels/bridgehitstv.m3u8
+#EXTINF:-1,RUS: BRIDGE RUSHITS 24H
+https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8
+#EXTINF:-1,RUS: XITE
+https://xite-samsung-de.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1,RUS: EUROPA PLUS
+https://livetv.mylifeisgood.ml/channels/europaplustv24.m3u8
+#EXTINF:-1,RUS: TNT MUSIC
+https://livetv.mylifeisgood.ml/channels/tntmusicru.m3u8
+#EXTINF:-1,RUS: 359 TV
+https://cdn3.invivo.bg/359t/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RUS: HIT FM TV
+http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
+#EXTINF:-1,RUS: 1HD_MUSIC
+https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8
+#EXTINF:-1,KALOOPY
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2115
